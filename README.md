@@ -15,3 +15,6 @@
 # Experiments
 - 🤣
 - 😂
+
+
+[CLI commands](Docs/Cli.md)
